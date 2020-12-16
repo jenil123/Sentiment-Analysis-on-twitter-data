@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-1.This project is part of out mini project.
+This project is part of out mini project.
 
 
 2. We have collected review data for our project
